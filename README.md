@@ -25,7 +25,7 @@ Crop Recommender System is a Machine learning project. This project runs on Flas
 
 2. Go to Crop-Recommendation-System-project\app\ path
 
-3. Type `cmd` to open the command prompt
+3. Type `cmd` in the address bar to open the command prompt
 
 4. Type `Python app.py` in the command prompt to open the Flask website.
 
