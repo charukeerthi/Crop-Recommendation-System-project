@@ -23,7 +23,7 @@ Crop Recommender System is a Machine learning project. This project runs on Flas
 
 1. Download the file
 
-2. Go to Crop-Recommendation-System-project\app\ path
+2. Go to _Crop-Recommendation-System-project\app\_ path
 
 3. Type `cmd` in the address bar to open the command prompt
 
