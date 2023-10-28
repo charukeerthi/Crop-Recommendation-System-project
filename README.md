@@ -46,4 +46,4 @@ Crop Recommender System has 4 modules. They are Home, Crop, Fertilizer, Disease
 
 Contributions are welcome! <3
 
-Made with :heart: and Python
+Made with :heart: and Python.
